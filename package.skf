@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-binary"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Конвертация в двоичную систему."
+    репозиторий = "github.com/skytech-alt/skyforge-binary"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
